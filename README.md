@@ -3,9 +3,9 @@ JavaScript decoder for the Quantized Mesh format&amp;viewer&amp;logger     **It 
 
 ## quantized-mesh-1.0 terrain format
 https://github.com/CesiumGS/quantized-mesh
-> https://www.cnblogs.com/oloroso/p/11080222.html
-> https://postor.github.io/cesium-doc-translate/QuantizedMeshTerrainData.html
-> https://github.com/CesiumGS/cesium/blob/master/Source/Core/CesiumTerrainProvider.js
+> 1. https://www.cnblogs.com/oloroso/p/11080222.html
+> 2. https://postor.github.io/cesium-doc-translate/QuantizedMeshTerrainData.html
+> 3. https://github.com/CesiumGS/cesium/blob/master/Source/Core/CesiumTerrainProvider.js
 
 ## Quantized Mesh Decoder
  https://github.com/heremaps/quantized-mesh-decoder
